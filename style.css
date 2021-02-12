@@ -1,0 +1,42 @@
+
+#semaforo{
+    background-color: black;
+    width: 150px;
+    height: 350px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+    
+}
+.div1{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: auto;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.div2{
+    background-color: rgb(229, 255, 0);
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: auto;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.div3{
+    background-color: rgb(29, 185, 14);
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin: auto;
+    border-radius: 50%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
